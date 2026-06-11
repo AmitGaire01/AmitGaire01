@@ -32,24 +32,4 @@
 
 ---
 
-## 📂 My Repositories
-
-| Repo | Description |
-|------|-------------|
-| 📝 `tryhackme-writeups` | TryHackMe room solutions and notes |
-| 🚩 `ctf-writeups` | CTF challenge writeups |
-| 🔍 `nmap-cheatsheet` | Nmap commands reference |
-| 📡 `wireshark-notes` | Packet analysis notes |
-| 🐧 `linux-commands-cheatsheet` | Linux CLI reference |
-
----
-
-## 📊 GitHub Stats
-
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmitGaire01&show_icons=true&theme=dark)
-
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/AmitGaire01.png)
-
----
-
 ⭐ *"Security is not a product, but a process."* — Bruce Schneier
