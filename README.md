@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Amit Gaire</h1>
+<h3 align="center">🔐 Aspiring Cybersecurity Professional | Kathmandu, Nepal 🇳🇵</h3>
 
-<!--
-**AmitGaire01/AmitGaire01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 Passionate about **Cybersecurity & Ethical Hacking**
+- 📚 Completed **Google Cybersecurity Certificate**
+- 🎯 Currently practicing on **TryHackMe** and building hands-on skills
+- 🛠️ Tools I use: **Kali Linux | Nmap | Wireshark | Burp Suite**
+- 🌱 Currently learning: **Network Security | Linux | CTF Challenges**
+- 📍 Based in **Kathmandu, Nepal**
+- 📫 Reach me on **LinkedIn:** [Add your LinkedIn URL here]
+
+---
+
+## 🛠️ Tools & Technologies
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+- ✅ Google Cybersecurity Certificate — 2024
+- 🔄 CompTIA Security+ — *In Progress*
+
+---
+
+## 📂 My Repositories
+
+| Repo | Description |
+|------|-------------|
+| 📝 `tryhackme-writeups` | TryHackMe room solutions and notes |
+| 🚩 `ctf-writeups` | CTF challenge writeups |
+| 🔍 `nmap-cheatsheet` | Nmap commands reference |
+| 📡 `wireshark-notes` | Packet analysis notes |
+| 🐧 `linux-commands-cheatsheet` | Linux CLI reference |
+
+---
+
+## 📊 GitHub Stats
+
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmitGaire01&show_icons=true&theme=dark)
+
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/AmitGaire01.png)
+
+---
+
+⭐ *"Security is not a product, but a process."* — Bruce Schneier
