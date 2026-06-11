@@ -2,7 +2,7 @@
 
 ```bash
 $ whoami
-> Aspiring Blue Team Analyst | SOC Defender | Kathmandu, Nepal 🇳🇵
+> Aspiring Blue Team Analyst | SOC Defender | Butwal, Nepal 🇳🇵
 ```
 
 ---
